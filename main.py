@@ -28,6 +28,6 @@ def average(List):
 
     return res / len(List)
 
-
+# 예시
 li = [2,4,6,8,10,12, 14]
 print(average(li))
