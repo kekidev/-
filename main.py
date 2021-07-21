@@ -9,7 +9,7 @@ class Statics:
         
         for i in self.List:
             curr_frequency = self.List.count(i)
-            if(curr_frequency> counter):
+            if(curr_frequency > counter):
                 counter = curr_frequency
                 num = i
     
